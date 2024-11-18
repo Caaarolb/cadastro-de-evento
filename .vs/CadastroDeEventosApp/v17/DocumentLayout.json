@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\resumoeventopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\resumoeventopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\resumoeventopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\resumoeventopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\cadastroeventopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\cadastroeventopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\cadastroeventopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\cadastroeventopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|c:\\users\\jehca\\downloads\\etec\\cadastrodeeventosapp\\cadastrodeeventosapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E385B978-F7CC-4DFD-BFE6-3C9915E2B331}|CadastroDeEventosApp\\CadastroDeEventosApp.csproj|solutionrelative:cadastrodeeventosapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\App.xaml.cs",
+              "RelativeToolTip": "CadastroDeEventosApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:47:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumoEventoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ResumoEventoPage.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\ResumoEventoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ResumoEventoPage.xaml.cs",
+              "RelativeToolTip": "CadastroDeEventosApp\\ResumoEventoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:47:20.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumoEventoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ResumoEventoPage.xaml",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\ResumoEventoPage.xaml",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ResumoEventoPage.xaml",
+              "RelativeToolTip": "CadastroDeEventosApp\\ResumoEventoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T03:47:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroEventoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\CadastroEventoPage.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\CadastroEventoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\CadastroEventoPage.xaml.cs",
+              "RelativeToolTip": "CadastroDeEventosApp\\CadastroEventoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:46:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastroEventoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\CadastroEventoPage.xaml",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\CadastroEventoPage.xaml",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\CadastroEventoPage.xaml",
+              "RelativeToolTip": "CadastroDeEventosApp\\CadastroEventoPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T03:46:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\ViewModels\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "CadastroDeEventosApp\\ViewModels\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:45:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "CadastroDeEventosApp\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\jehca\\Downloads\\etec\\CadastroDeEventosApp\\CadastroDeEventosApp\\Models\\Models.cs",
+              "RelativeToolTip": "CadastroDeEventosApp\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:43:11.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
